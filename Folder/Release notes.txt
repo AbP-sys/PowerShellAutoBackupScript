@@ -1,0 +1,18 @@
+MK1Prototype
+------------
+-Simple Script to copy one folder to one destination
+
+MK1Redux
+--------
+-Supports multiple source directories
+-Added Windows dialog box to browse source and destination folders
+-Creates a scheduled task to run daily
+
+==========BETA Release (31/10/2020)==========
+
+-Script launches after installation to verify functionality 
+-Added information dialog box to notify when selecting destination
+-Removed restrictions for modifying destination folder
+
+
+
