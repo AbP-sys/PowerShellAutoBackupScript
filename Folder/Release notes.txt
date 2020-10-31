@@ -14,5 +14,7 @@ MK1Redux
 -Added information dialog box to notify when selecting destination
 -Removed restrictions for modifying destination folder
 
+==========Public Release 31/10/2020 12:00 PM IST==========
+
 
 
