@@ -1,5 +1,0 @@
-Specify source locations in $Dir1,$Dir2,$Dir3,$Dir4,$Dir5 (can add more but ensure to add variable in $MasterOrigin as well)
-
-Specify destination in $Destination.
-Schedule to run 'MK1Redux' powershell script in Task Scheduler.
-
